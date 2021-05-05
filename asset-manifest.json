@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://brunoperez1904.github.io/csb-0qouz/static/js/main.dc815bba.chunk.js",
+    "main.js.map": "https://brunoperez1904.github.io/csb-0qouz/static/js/main.dc815bba.chunk.js.map",
+    "runtime-main.js": "https://brunoperez1904.github.io/csb-0qouz/static/js/runtime-main.938e685f.js",
+    "runtime-main.js.map": "https://brunoperez1904.github.io/csb-0qouz/static/js/runtime-main.938e685f.js.map",
+    "static/js/2.25242a11.chunk.js": "https://brunoperez1904.github.io/csb-0qouz/static/js/2.25242a11.chunk.js",
+    "static/js/2.25242a11.chunk.js.map": "https://brunoperez1904.github.io/csb-0qouz/static/js/2.25242a11.chunk.js.map",
+    "index.html": "https://brunoperez1904.github.io/csb-0qouz/index.html",
+    "precache-manifest.acd2ca5e4aeb15a9a851416d16daf774.js": "https://brunoperez1904.github.io/csb-0qouz/precache-manifest.acd2ca5e4aeb15a9a851416d16daf774.js",
+    "service-worker.js": "https://brunoperez1904.github.io/csb-0qouz/service-worker.js",
+    "static/js/2.25242a11.chunk.js.LICENSE.txt": "https://brunoperez1904.github.io/csb-0qouz/static/js/2.25242a11.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.938e685f.js",
+    "static/js/2.25242a11.chunk.js",
+    "static/js/main.dc815bba.chunk.js"
+  ]
+}
